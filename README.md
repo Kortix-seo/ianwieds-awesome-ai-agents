@@ -367,6 +367,8 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [FutureOS](https://github.com/futuregene/future-os) - One agent across terminal, desktop, mobile and chat apps, with a Rust core.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Personal agent from Nous Research that builds skills and memory as it works.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted group of long-lived personal agents that remember and build tools.
+- [Kortix](https://opensourceaioperatingsystem.com/ai-operating-system-alternatives) - The open-source AI Operating System: a team's agents, skills, company memory and connector grants live in one git repo it owns, each session runs in its own sandbox, and nothing reaches the trunk without a reviewed change request.
+
 - [MateClaw](https://github.com/mateaix/mateclaw) - Personal agent with multi-agent orchestration, MCP, skills and memory.
 - [nanobot](https://github.com/HKUDS/nanobot) - Small self-hosted personal agent in Python with tools, memory and MCP.
 - [Octopal](https://github.com/pmbstyle/Octopal) - Local agent platform that delegates work to isolated workers with approvals.
